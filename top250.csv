@@ -1,0 +1,251 @@
+Type,Name,Year,Director(s),Genre(s),Rating(1-10),Link
+Film,The Shawshank Redemption,1994,"Frank Darabont","Drama",0,https://www.imdb.com/title/tt0111161/
+Film,The Godfather,1972,"Francis Ford Coppola","Crime,Drama",0,https://www.imdb.com/title/tt0068646/
+Film,The Godfather: Part II,1974,"Francis Ford Coppola","Crime,Drama",0,https://www.imdb.com/title/tt0071562/
+Film,The Dark Knight,2008,"Christopher Nolan","Action,Crime,Drama",0,https://www.imdb.com/title/tt0468569/
+Film,12 Angry Men,1957,"Sidney Lumet","Crime,Drama",0,https://www.imdb.com/title/tt0050083/
+Film,Schindler's List,1993,"Steven Spielberg","Biography,Drama,History",0,https://www.imdb.com/title/tt0108052/
+Film,The Lord of the Rings: The Return of the King,2003,"Peter Jackson","Action,Adventure,Drama",0,https://www.imdb.com/title/tt0167260/
+Film,Pulp Fiction,1994,"Quentin Tarantino","Crime,Drama",0,https://www.imdb.com/title/tt0110912/
+Film,Il buono, il brutto, il cattivo,1966,"Sergio Leone","Western",0,https://www.imdb.com/title/tt0060196/
+Film,The Lord of the Rings: The Fellowship of the Ring,2001,"Peter Jackson","Action,Adventure,Drama",0,https://www.imdb.com/title/tt0120737/
+Film,Fight Club,1999,"David Fincher","Drama",0,https://www.imdb.com/title/tt0137523/
+Film,Forrest Gump,1994,"Robert Zemeckis","Drama,Romance",0,https://www.imdb.com/title/tt0109830/
+Film,Inception,2010,"Christopher Nolan","Action,Adventure,Sci-Fi",0,https://www.imdb.com/title/tt1375666/
+Film,The Lord of the Rings: The Two Towers,2002,"Peter Jackson","Action,Adventure,Drama",0,https://www.imdb.com/title/tt0167261/
+Film,Star Wars: Episode V - The Empire Strikes Back,1980,"Irvin Kershner","Action,Adventure,Fantasy",0,https://www.imdb.com/title/tt0080684/
+Film,The Matrix,1999,"Lana Wachowski,Lilly Wachowski","Action,Sci-Fi",0,https://www.imdb.com/title/tt0133093/
+Film,Goodfellas,1990,"Martin Scorsese","Biography,Crime,Drama",0,https://www.imdb.com/title/tt0099685/
+Film,One Flew Over the Cuckoo's Nest,1975,"Milos Forman","Drama",0,https://www.imdb.com/title/tt0073486/
+Film,Shichinin no samurai,1954,"Akira Kurosawa","Action,Adventure,Drama",0,https://www.imdb.com/title/tt0047478/
+Film,Se7en,1995,"David Fincher","Crime,Drama,Mystery",0,https://www.imdb.com/title/tt0114369/
+Film,The Silence of the Lambs,1991,"Jonathan Demme","Crime,Drama,Thriller",0,https://www.imdb.com/title/tt0102926/
+Film,Cidade de Deus,2002,"Fernando Meirelles,Kátia Lund","Crime,Drama",0,https://www.imdb.com/title/tt0317248/
+Film,La vita è bella,1997,"Roberto Benigni","Comedy,Drama,Romance",0,https://www.imdb.com/title/tt0118799/
+Film,It's a Wonderful Life,1946,"Frank Capra","Drama,Family,Fantasy",0,https://www.imdb.com/title/tt0038650/
+Film,Star Wars,1977,"George Lucas","Action,Adventure,Fantasy",0,https://www.imdb.com/title/tt0076759/
+Film,Saving Private Ryan,1998,"Steven Spielberg","Drama,War",0,https://www.imdb.com/title/tt0120815/
+Film,Sen to Chihiro no kamikakushi,2001,"Hayao Miyazaki","Animation,Adventure,Family",0,https://www.imdb.com/title/tt0245429/
+Film,Interstellar,2014,"Christopher Nolan","Adventure,Drama,Sci-Fi",0,https://www.imdb.com/title/tt0816692/
+Film,The Green Mile,1999,"Frank Darabont","Crime,Drama,Fantasy",0,https://www.imdb.com/title/tt0120689/
+Film,Gisaengchung,2019,"Bong Joon Ho","Comedy,Drama,Thriller",0,https://www.imdb.com/title/tt6751668/
+Film,Léon,1994,"Luc Besson","Action,Crime,Drama",0,https://www.imdb.com/title/tt0110413/
+Film,Seppuku,1962,"Masaki Kobayashi","Action,Drama,Mystery",0,https://www.imdb.com/title/tt0056058/
+Film,The Usual Suspects,1995,"Bryan Singer","Crime,Mystery,Thriller",0,https://www.imdb.com/title/tt0114814/
+Film,The Pianist,2002,"Roman Polanski","Biography,Drama,Music",0,https://www.imdb.com/title/tt0253474/
+Film,Back to the Future,1985,"Robert Zemeckis","Adventure,Comedy,Sci-Fi",0,https://www.imdb.com/title/tt0088763/
+Film,Terminator 2: Judgment Day,1991,"James Cameron","Action,Sci-Fi",0,https://www.imdb.com/title/tt0103064/
+Film,Psycho,1960,"Alfred Hitchcock","Horror,Mystery,Thriller",0,https://www.imdb.com/title/tt0054215/
+Film,Modern Times,1936,"Charles Chaplin","Comedy,Drama,Family",0,https://www.imdb.com/title/tt0027977/
+Film,The Lion King,1994,"Roger Allers,Rob Minkoff","Animation,Adventure,Drama",0,https://www.imdb.com/title/tt0110357/
+Film,American History X,1998,"Tony Kaye","Drama",0,https://www.imdb.com/title/tt0120586/
+Film,City Lights,1931,"Charles Chaplin","Comedy,Drama,Romance",0,https://www.imdb.com/title/tt0021749/
+Film,Gladiator,2000,"Ridley Scott","Action,Adventure,Drama",0,https://www.imdb.com/title/tt0172495/
+Film,Hotaru no haka,1988,"Isao Takahata","Animation,Drama,War",0,https://www.imdb.com/title/tt0095327/
+Film,Whiplash,2014,"Damien Chazelle","Drama,Music",0,https://www.imdb.com/title/tt2582802/
+Film,The Departed,2006,"Martin Scorsese","Crime,Drama,Thriller",0,https://www.imdb.com/title/tt0407887/
+Film,The Intouchables,2011,"Olivier Nakache,Éric Toledano","Biography,Comedy,Drama",0,https://www.imdb.com/title/tt1675434/
+Film,The Prestige,2006,"Christopher Nolan","Drama,Mystery,Sci-Fi",0,https://www.imdb.com/title/tt0482571/
+Film,Casablanca,1942,"Michael Curtiz","Drama,Romance,War",0,https://www.imdb.com/title/tt0034583/
+Film,Once Upon a Time in the West,1968,"Sergio Leone","Western",0,https://www.imdb.com/title/tt0064116/
+Film,Rear Window,1954,"Alfred Hitchcock","Mystery,Thriller",0,https://www.imdb.com/title/tt0047396/
+Film,Nuovo Cinema Paradiso,1988,"Giuseppe Tornatore","Drama,Romance",0,https://www.imdb.com/title/tt0095765/
+Film,Alien,1979,"Ridley Scott","Horror,Sci-Fi",0,https://www.imdb.com/title/tt0078748/
+Film,Apocalypse Now,1979,"Francis Ford Coppola","Drama,Mystery,War",0,https://www.imdb.com/title/tt0078788/
+Film,Memento,2000,"Christopher Nolan","Mystery,Thriller",0,https://www.imdb.com/title/tt0209144/
+Film,Raiders of the Lost Ark,1981,"Steven Spielberg","Action,Adventure",0,https://www.imdb.com/title/tt0082971/
+Film,The Great Dictator,1940,"Charles Chaplin","Comedy,Drama,War",0,https://www.imdb.com/title/tt0032553/
+Film,The Lives of Others,2006,"Florian Henckel von Donnersmarck","Drama,Mystery,Thriller",0,https://www.imdb.com/title/tt0405094/
+Film,Django Unchained,2012,"Quentin Tarantino","Drama,Western",0,https://www.imdb.com/title/tt1853728/
+Film,Paths of Glory,1957,"Stanley Kubrick","Drama,War",0,https://www.imdb.com/title/tt0050825/
+Film,Sunset Blvd.,1950,"Billy Wilder","Drama,Film-Noir",0,https://www.imdb.com/title/tt0043014/
+Film,WALL·E,2008,"Andrew Stanton","Animation,Adventure,Family",0,https://www.imdb.com/title/tt0910970/
+Film,The Shining,1980,"Stanley Kubrick","Drama,Horror",0,https://www.imdb.com/title/tt0081505/
+Film,Avengers: Infinity War,2018,"Anthony Russo,Joe Russo","Action,Adventure,Sci-Fi",0,https://www.imdb.com/title/tt4154756/
+Film,Witness for the Prosecution,1957,"Billy Wilder","Crime,Drama,Mystery",0,https://www.imdb.com/title/tt0051201/
+Film,Joker,2019,"Todd Phillips","Crime,Drama,Thriller",0,https://www.imdb.com/title/tt7286456/
+Film,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,"Stanley Kubrick","Comedy",0,https://www.imdb.com/title/tt0057012/
+Film,Spider-Man: Into the Spider-Verse,2018,"Bob Persichetti,Peter Ramsey,Rodney Rothman","Animation,Action,Adventure",0,https://www.imdb.com/title/tt4633694/
+Film,Oldeuboi,2003,"Park Chan-Wook","Action,Drama,Mystery",0,https://www.imdb.com/title/tt0364569/
+Film,Mononoke-hime,1997,"Hayao Miyazaki","Animation,Action,Adventure",0,https://www.imdb.com/title/tt0119698/
+Film,Hamilton,2020,"Thomas Kail","Biography,Drama,History",0,https://www.imdb.com/title/tt8503618/
+Film,Kimi no na wa.,2016,"Makoto Shinkai","Animation,Drama,Fantasy",0,https://www.imdb.com/title/tt5311514/
+Film,Once Upon a Time in America,1984,"Sergio Leone","Crime,Drama",0,https://www.imdb.com/title/tt0087843/
+Film,The Dark Knight Rises,2012,"Christopher Nolan","Action,Adventure",0,https://www.imdb.com/title/tt1345836/
+Film,Aliens,1986,"James Cameron","Action,Adventure,Sci-Fi",0,https://www.imdb.com/title/tt0090605/
+Film,Coco,2017,"Lee Unkrich,Adrian Molina","Animation,Adventure,Drama",0,https://www.imdb.com/title/tt2380307/
+Film,Das Boot,1981,"Wolfgang Petersen","Adventure,Drama,Thriller",0,https://www.imdb.com/title/tt0082096/
+Film,Capharnaüm,2018,"Nadine Labaki","Drama",0,https://www.imdb.com/title/tt8267604/
+Film,Avengers: Endgame,2019,"Anthony Russo,Joe Russo","Action,Adventure,Drama",0,https://www.imdb.com/title/tt4154796/
+Film,Tengoku to jigoku,1963,"Akira Kurosawa","Crime,Drama,Mystery",0,https://www.imdb.com/title/tt0057565/
+Film,American Beauty,1999,"Sam Mendes","Drama",0,https://www.imdb.com/title/tt0169547/
+Film,Toy Story,1995,"John Lasseter","Animation,Adventure,Comedy",0,https://www.imdb.com/title/tt0114709/
+Film,Braveheart,1995,"Mel Gibson","Biography,Drama,History",0,https://www.imdb.com/title/tt0112573/
+Film,Amadeus,1984,"Milos Forman","Biography,Drama,History",0,https://www.imdb.com/title/tt0086879/
+Film,3 Idiots,2009,"Rajkumar Hirani","Comedy,Drama",0,https://www.imdb.com/title/tt1187043/
+Film,Pather Panchali,1955,"Satyajit Ray","Drama",0,https://www.imdb.com/title/tt0048473/
+Film,Inglourious Basterds,2009,"Quentin Tarantino","Adventure,Drama,War",0,https://www.imdb.com/title/tt0361748/
+Film,Good Will Hunting,1997,"Gus Van Sant","Drama,Romance",0,https://www.imdb.com/title/tt0119217/
+Film,Star Wars: Episode VI - Return of the Jedi,1983,"Richard Marquand","Action,Adventure,Fantasy",0,https://www.imdb.com/title/tt0086190/
+Film,2001: A Space Odyssey,1968,"Stanley Kubrick","Adventure,Sci-Fi",0,https://www.imdb.com/title/tt0062622/
+Film,Reservoir Dogs,1992,"Quentin Tarantino","Crime,Drama,Thriller",0,https://www.imdb.com/title/tt0105236/
+Film,M - Eine Stadt sucht einen Mörder,1931,"Fritz Lang","Crime,Mystery,Thriller",0,https://www.imdb.com/title/tt0022100/
+Film,Taare Zameen Par,2007,"Aamir Khan,Amole Gupte","Drama,Family",0,https://www.imdb.com/title/tt0986264/
+Film,Vertigo,1958,"Alfred Hitchcock","Mystery,Romance,Thriller",0,https://www.imdb.com/title/tt0052357/
+Film,Citizen Kane,1941,"Orson Welles","Drama,Mystery",0,https://www.imdb.com/title/tt0033467/
+Film,Jagten,2012,"Thomas Vinterberg","Drama",0,https://www.imdb.com/title/tt2106476/
+Film,Idi i smotri,1985,"Elem Klimov","Drama,Thriller,War",0,https://www.imdb.com/title/tt0091251/
+Film,Requiem for a Dream,2000,"Darren Aronofsky","Drama",0,https://www.imdb.com/title/tt0180093/
+Film,Singin' in the Rain,1952,"Stanley Donen,Gene Kelly","Comedy,Musical,Romance",0,https://www.imdb.com/title/tt0045152/
+Film,North by Northwest,1959,"Alfred Hitchcock","Adventure,Mystery,Thriller",0,https://www.imdb.com/title/tt0053125/
+Film,Eternal Sunshine of the Spotless Mind,2004,"Michel Gondry","Drama,Romance,Sci-Fi",0,https://www.imdb.com/title/tt0338013/
+Film,Ladri di biciclette,1948,"Vittorio De Sica","Drama",0,https://www.imdb.com/title/tt0040522/
+Film,Ikiru,1952,"Akira Kurosawa","Drama",0,https://www.imdb.com/title/tt0044741/
+Film,Lawrence of Arabia,1962,"David Lean","Adventure,Biography,Drama",0,https://www.imdb.com/title/tt0056172/
+Film,The Kid,1921,"Charles Chaplin","Comedy,Drama,Family",0,https://www.imdb.com/title/tt0012349/
+Film,Full Metal Jacket,1987,"Stanley Kubrick","Drama,War",0,https://www.imdb.com/title/tt0093058/
+Film,Dangal,2016,"Nitesh Tiwari","Action,Biography,Drama",0,https://www.imdb.com/title/tt5074352/
+Film,The Father,2020,"Florian Zeller","Drama",0,https://www.imdb.com/title/tt10272386/
+Film,A Clockwork Orange,1971,"Stanley Kubrick","Crime,Drama,Sci-Fi",0,https://www.imdb.com/title/tt0066921/
+Film,Metropolis,1927,"Fritz Lang","Drama,Sci-Fi",0,https://www.imdb.com/title/tt0017136/
+Film,Taxi Driver,1976,"Martin Scorsese","Crime,Drama",0,https://www.imdb.com/title/tt0075314/
+Film,The Apartment,1960,"Billy Wilder","Comedy,Drama,Romance",0,https://www.imdb.com/title/tt0053604/
+Film,Double Indemnity,1944,"Billy Wilder","Crime,Drama,Film-Noir",0,https://www.imdb.com/title/tt0036775/
+Film,The Sting,1973,"George Roy Hill","Comedy,Crime,Drama",0,https://www.imdb.com/title/tt0070735/
+Film,Jodaeiye Nader az Simin,2011,"Asghar Farhadi","Drama",0,https://www.imdb.com/title/tt1832382/
+Film,1917,2019,"Sam Mendes","Drama,Thriller,War",0,https://www.imdb.com/title/tt8579674/
+Film,Incendies,2010,"Denis Villeneuve","Drama,Mystery,War",0,https://www.imdb.com/title/tt1255953/
+Film,Le fabuleux destin d'Amélie Poulain,2001,"Jean-Pierre Jeunet","Comedy,Romance",0,https://www.imdb.com/title/tt0211915/
+Film,Snatch,2000,"Guy Ritchie","Comedy,Crime",0,https://www.imdb.com/title/tt0208092/
+Film,Scarface,1983,"Brian De Palma","Crime,Drama",0,https://www.imdb.com/title/tt0086250/
+Film,Toy Story 3,2010,"Lee Unkrich","Animation,Adventure,Comedy",0,https://www.imdb.com/title/tt0435761/
+Film,To Kill a Mockingbird,1962,"Robert Mulligan","Crime,Drama",0,https://www.imdb.com/title/tt0056592/
+Film,Per qualche dollaro in più,1965,"Sergio Leone","Western",0,https://www.imdb.com/title/tt0059578/
+Film,Up,2009,"Pete Docter,Bob Peterson","Animation,Adventure,Comedy",0,https://www.imdb.com/title/tt1049413/
+Film,Indiana Jones and the Last Crusade,1989,"Steven Spielberg","Action,Adventure",0,https://www.imdb.com/title/tt0097576/
+Film,L.A. Confidential,1997,"Curtis Hanson","Crime,Drama,Mystery",0,https://www.imdb.com/title/tt0119488/
+Film,Heat,1995,"Michael Mann","Crime,Drama,Thriller",0,https://www.imdb.com/title/tt0113277/
+Film,Rashomon,1950,"Akira Kurosawa","Crime,Drama,Mystery",0,https://www.imdb.com/title/tt0042876/
+Film,Yojinbo,1961,"Akira Kurosawa","Action,Drama,Thriller",0,https://www.imdb.com/title/tt0055630/
+Film,Ran,1985,"Akira Kurosawa","Action,Drama,War",0,https://www.imdb.com/title/tt0089881/
+Film,Die Hard,1988,"John McTiernan","Action,Thriller",0,https://www.imdb.com/title/tt0095016/
+Film,Monty Python and the Holy Grail,1975,"Terry Gilliam,Terry Jones","Adventure,Comedy,Fantasy",0,https://www.imdb.com/title/tt0071853/
+Film,Green Book,2018,"Peter Farrelly","Biography,Comedy,Drama",0,https://www.imdb.com/title/tt6966692/
+Film,Der Untergang,2004,"Oliver Hirschbiegel","Biography,Drama,History",0,https://www.imdb.com/title/tt0363163/
+Film,All About Eve,1950,"Joseph L. Mankiewicz","Drama",0,https://www.imdb.com/title/tt0042192/
+Film,Batman Begins,2005,"Christopher Nolan","Action,Adventure",0,https://www.imdb.com/title/tt0372784/
+Film,Some Like It Hot,1959,"Billy Wilder","Comedy,Music,Romance",0,https://www.imdb.com/title/tt0053291/
+Film,Unforgiven,1992,"Clint Eastwood","Drama,Western",0,https://www.imdb.com/title/tt0105695/
+Film,Bacheha-Ye aseman,1997,"Majid Majidi","Drama,Family,Sport",0,https://www.imdb.com/title/tt0118849/
+Film,Hauru no ugoku shiro,2004,"Hayao Miyazaki","Animation,Adventure,Family",0,https://www.imdb.com/title/tt0347149/
+Film,The Wolf of Wall Street,2013,"Martin Scorsese","Biography,Crime,Drama",0,https://www.imdb.com/title/tt0993846/
+Film,The Great Escape,1963,"John Sturges","Adventure,Drama,History",0,https://www.imdb.com/title/tt0057115/
+Film,Judgment at Nuremberg,1961,"Stanley Kramer","Drama,War",0,https://www.imdb.com/title/tt0055031/
+Film,Casino,1995,"Martin Scorsese","Crime,Drama",0,https://www.imdb.com/title/tt0112641/
+Film,The Treasure of the Sierra Madre,1948,"John Huston","Adventure,Drama,Western",0,https://www.imdb.com/title/tt0040897/
+Film,Pan's Labyrinth,2006,"Guillermo del Toro","Drama,Fantasy,War",0,https://www.imdb.com/title/tt0457430/
+Film,There Will Be Blood,2007,"Paul Thomas Anderson","Drama",0,https://www.imdb.com/title/tt0469494/
+Film,A Beautiful Mind,2001,"Ron Howard","Biography,Drama",0,https://www.imdb.com/title/tt0268978/
+Film,El secreto de sus ojos,2009,"Juan José Campanella","Drama,Mystery,Romance",0,https://www.imdb.com/title/tt1305806/
+Film,Raging Bull,1980,"Martin Scorsese","Biography,Drama,Sport",0,https://www.imdb.com/title/tt0081398/
+Film,Tonari no Totoro,1988,"Hayao Miyazaki","Animation,Family,Fantasy",0,https://www.imdb.com/title/tt0096283/
+Film,Chinatown,1974,"Roman Polanski","Drama,Mystery,Thriller",0,https://www.imdb.com/title/tt0071315/
+Film,Lock, Stock and Two Smoking Barrels,1998,"Guy Ritchie","Action,Comedy,Crime",0,https://www.imdb.com/title/tt0120735/
+Film,The Gold Rush,1925,"Charles Chaplin","Adventure,Comedy,Drama",0,https://www.imdb.com/title/tt0015864/
+Film,Dial M for Murder,1954,"Alfred Hitchcock","Crime,Thriller",0,https://www.imdb.com/title/tt0046912/
+Film,Shutter Island,2010,"Martin Scorsese","Mystery,Thriller",0,https://www.imdb.com/title/tt1130884/
+Film,No Country for Old Men,2007,"Ethan Coen,Joel Coen","Crime,Drama,Thriller",0,https://www.imdb.com/title/tt0477348/
+Film,Three Billboards Outside Ebbing, Missouri,2017,"Martin McDonagh","Comedy,Crime,Drama",0,https://www.imdb.com/title/tt5027774/
+Film,Det sjunde inseglet,1957,"Ingmar Bergman","Drama,Fantasy,History",0,https://www.imdb.com/title/tt0050976/
+Film,The Elephant Man,1980,"David Lynch","Biography,Drama",0,https://www.imdb.com/title/tt0080678/
+Film,The Thing,1982,"John Carpenter","Horror,Mystery,Sci-Fi",0,https://www.imdb.com/title/tt0084787/
+Film,The Sixth Sense,1999,"M. Night Shyamalan","Drama,Mystery,Thriller",0,https://www.imdb.com/title/tt0167404/
+Film,Klaus,2019,"Sergio Pablos,Carlos Martínez López","Animation,Adventure,Comedy",0,https://www.imdb.com/title/tt4729430/
+Film,Inside Out,2015,"Pete Docter,Ronnie Del Carmen","Animation,Adventure,Comedy",0,https://www.imdb.com/title/tt2096673/
+Film,V for Vendetta,2005,"James McTeigue","Action,Drama,Sci-Fi",0,https://www.imdb.com/title/tt0434409/
+Film,The Third Man,1949,"Carol Reed","Film-Noir,Mystery,Thriller",0,https://www.imdb.com/title/tt0041959/
+Film,Smultronstället,1957,"Ingmar Bergman","Drama,Romance",0,https://www.imdb.com/title/tt0050986/
+Film,Blade Runner,1982,"Ridley Scott","Action,Sci-Fi,Thriller",0,https://www.imdb.com/title/tt0083658/
+Film,Trainspotting,1996,"Danny Boyle","Drama",0,https://www.imdb.com/title/tt0117951/
+Film,The Bridge on the River Kwai,1957,"David Lean","Adventure,Drama,War",0,https://www.imdb.com/title/tt0050212/
+Film,The Truman Show,1998,"Peter Weir","Comedy,Drama",0,https://www.imdb.com/title/tt0120382/
+Film,Jurassic Park,1993,"Steven Spielberg","Action,Adventure,Sci-Fi",0,https://www.imdb.com/title/tt0107290/
+Film,Salinui chueok,2003,"Bong Joon Ho","Crime,Drama,Mystery",0,https://www.imdb.com/title/tt0353969/
+Film,Warrior,2011,"Gavin O'Connor","Action,Drama,Sport",0,https://www.imdb.com/title/tt1291584/
+Film,Fargo,1996,"Joel Coen,Ethan Coen","Crime,Drama,Thriller",0,https://www.imdb.com/title/tt0116282/
+Film,Babam ve Oglum,2005,"Cagan Irmak","Drama,Family",0,https://www.imdb.com/title/tt0476735/
+Film,Finding Nemo,2003,"Andrew Stanton,Lee Unkrich","Animation,Adventure,Comedy",0,https://www.imdb.com/title/tt0266543/
+Film,Gone with the Wind,1939,"Victor Fleming,George Cukor,Sam Wood","Drama,History,Romance",0,https://www.imdb.com/title/tt0031381/
+Film,Kill Bill: Vol. 1,2003,"Quentin Tarantino","Action,Crime,Drama",0,https://www.imdb.com/title/tt0266697/
+Film,Tôkyô monogatari,1953,"Yasujirô Ozu","Drama",0,https://www.imdb.com/title/tt0046438/
+Film,On the Waterfront,1954,"Elia Kazan","Crime,Drama,Thriller",0,https://www.imdb.com/title/tt0047296/
+Film,Stalker,1979,"Andrei Tarkovsky","Drama,Sci-Fi",0,https://www.imdb.com/title/tt0079944/
+Film,The General,1926,"Clyde Bruckman,Buster Keaton","Action,Adventure,Comedy",0,https://www.imdb.com/title/tt0017925/
+Film,Relatos salvajes,2014,"Damián Szifron","Comedy,Drama,Thriller",0,https://www.imdb.com/title/tt3011894/
+Film,The Deer Hunter,1978,"Michael Cimino","Drama,War",0,https://www.imdb.com/title/tt0077416/
+Film,Sherlock Jr.,1924,"Buster Keaton","Action,Comedy,Romance",0,https://www.imdb.com/title/tt0015324/
+Film,Gran Torino,2008,"Clint Eastwood","Drama",0,https://www.imdb.com/title/tt1205489/
+Film,Room,2015,"Lenny Abrahamson","Drama,Thriller",0,https://www.imdb.com/title/tt3170832/
+Film,The Grand Budapest Hotel,2014,"Wes Anderson","Adventure,Comedy,Crime",0,https://www.imdb.com/title/tt2278388/
+Film,Before Sunrise,1995,"Richard Linklater","Drama,Romance",0,https://www.imdb.com/title/tt0112471/
+Film,Persona,1966,"Ingmar Bergman","Drama,Thriller",0,https://www.imdb.com/title/tt0060827/
+Film,Mary and Max.,2009,"Adam Elliot","Animation,Comedy,Drama",0,https://www.imdb.com/title/tt0978762/
+Film,Prisoners,2013,"Denis Villeneuve","Crime,Drama,Mystery",0,https://www.imdb.com/title/tt1392214/
+Film,In the Name of the Father,1993,"Jim Sheridan","Biography,Crime,Drama",0,https://www.imdb.com/title/tt0107207/
+Film,Mr. Smith Goes to Washington,1939,"Frank Capra","Comedy,Drama",0,https://www.imdb.com/title/tt0031679/
+Film,Catch Me If You Can,2002,"Steven Spielberg","Biography,Crime,Drama",0,https://www.imdb.com/title/tt0264464/
+Film,Gone Girl,2014,"David Fincher","Drama,Mystery,Thriller",0,https://www.imdb.com/title/tt2267998/
+Film,Hacksaw Ridge,2016,"Mel Gibson","Biography,Drama,History",0,https://www.imdb.com/title/tt2119532/
+Film,To Be or Not to Be,1942,"Ernst Lubitsch","Comedy,Romance,War",0,https://www.imdb.com/title/tt0035446/
+Film,Andhadhun,2018,"Sriram Raghavan","Crime,Drama,Music",0,https://www.imdb.com/title/tt8108198/
+Film,Barry Lyndon,1975,"Stanley Kubrick","Adventure,Drama,History",0,https://www.imdb.com/title/tt0072684/
+Film,The Big Lebowski,1998,"Joel Coen,Ethan Coen","Comedy,Crime,Sport",0,https://www.imdb.com/title/tt0118715/
+Film,Ford v Ferrari,2019,"James Mangold","Action,Biography,Drama",0,https://www.imdb.com/title/tt1950186/
+Film,12 Years a Slave,2013,"Steve McQueen","Biography,Drama,History",0,https://www.imdb.com/title/tt2024544/
+Film,La passion de Jeanne d'Arc,1928,"Carl Theodor Dreyer","Biography,Drama,History",0,https://www.imdb.com/title/tt0019254/
+Film,How to Train Your Dragon,2010,"Dean DeBlois,Chris Sanders","Animation,Action,Adventure",0,https://www.imdb.com/title/tt0892769/
+Film,Mad Max: Fury Road,2015,"George Miller","Action,Adventure,Sci-Fi",0,https://www.imdb.com/title/tt1392190/
+Film,Ben-Hur,1959,"William Wyler","Adventure,Drama,History",0,https://www.imdb.com/title/tt0052618/
+Film,Le salaire de la peur,1953,"Henri-Georges Clouzot","Adventure,Drama,Thriller",0,https://www.imdb.com/title/tt0046268/
+Film,Million Dollar Baby,2004,"Clint Eastwood","Drama,Sport",0,https://www.imdb.com/title/tt0405159/
+Film,Dead Poets Society,1989,"Peter Weir","Comedy,Drama",0,https://www.imdb.com/title/tt0097165/
+Film,Höstsonaten,1978,"Ingmar Bergman","Drama,Music",0,https://www.imdb.com/title/tt0077711/
+Film,Network,1976,"Sidney Lumet","Drama",0,https://www.imdb.com/title/tt0074958/
+Film,Harry Potter and the Deathly Hallows: Part 2,2011,"David Yates","Adventure,Drama,Fantasy",0,https://www.imdb.com/title/tt1201607/
+Film,Stand by Me,1986,"Rob Reiner","Adventure,Drama",0,https://www.imdb.com/title/tt0092005/
+Film,Ah-ga-ssi,2016,"Park Chan-Wook","Drama,Romance,Thriller",0,https://www.imdb.com/title/tt4016934/
+Film,Cool Hand Luke,1967,"Stuart Rosenberg","Crime,Drama",0,https://www.imdb.com/title/tt0061512/
+Film,Les quatre cents coups,1959,"François Truffaut","Crime,Drama",0,https://www.imdb.com/title/tt0053198/
+Film,Logan,2017,"James Mangold","Action,Drama,Sci-Fi",0,https://www.imdb.com/title/tt3315342/
+Film,Eskiya,1996,"Yavuz Turgul","Crime,Drama,Thriller",0,https://www.imdb.com/title/tt0116231/
+Film,Hachi: A Dog's Tale,2009,"Lasse Hallström","Biography,Drama,Family",0,https://www.imdb.com/title/tt1028532/
+Film,Platoon,1986,"Oliver Stone","Drama,War",0,https://www.imdb.com/title/tt0091763/
+Film,La haine,1995,"Mathieu Kassovitz","Crime,Drama",0,https://www.imdb.com/title/tt0113247/
+Film,Spotlight,2015,"Tom McCarthy","Biography,Crime,Drama",0,https://www.imdb.com/title/tt1895587/
+Film,Life of Brian,1979,"Terry Jones","Comedy",0,https://www.imdb.com/title/tt0079470/
+Film,Hotel Rwanda,2004,"Terry George","Biography,Drama,History",0,https://www.imdb.com/title/tt0395169/
+Film,Rebecca,1940,"Alfred Hitchcock","Drama,Mystery,Romance",0,https://www.imdb.com/title/tt0032976/
+Film,Monsters, Inc.,2001,"Pete Docter,David Silverman,Lee Unkrich","Animation,Adventure,Comedy",0,https://www.imdb.com/title/tt0198781/
+Film,Rush,2013,"Ron Howard","Action,Biography,Drama",0,https://www.imdb.com/title/tt1979320/
+Film,Into the Wild,2007,"Sean Penn","Adventure,Biography,Drama",0,https://www.imdb.com/title/tt0758758/
+Film,Andrei Rublev,1966,"Andrei Tarkovsky","Biography,Drama,History",0,https://www.imdb.com/title/tt0060107/
+Film,Gangs of Wasseypur,2012,"Anurag Kashyap","Action,Comedy,Crime",0,https://www.imdb.com/title/tt1954470/
+Film,Amores perros,2000,"Alejandro G. Iñárritu","Drama,Thriller",0,https://www.imdb.com/title/tt0245712/
+Film,Koe no katachi,2016,"Naoko Yamada","Animation,Drama,Romance",0,https://www.imdb.com/title/tt5323662/
+Film,Rocky,1976,"John G. Avildsen","Drama,Sport",0,https://www.imdb.com/title/tt0075148/
+Film,Fa yeung nin wah,2000,"Kar-Wai Wong","Drama,Romance",0,https://www.imdb.com/title/tt0118694/
+Film,It Happened One Night,1934,"Frank Capra","Comedy,Romance",0,https://www.imdb.com/title/tt0025316/
+Film,Kaze no tani no Naushika,1984,"Hayao Miyazaki","Animation,Adventure,Fantasy",0,https://www.imdb.com/title/tt0087544/
+Film,Ratsasan,2018,"Ram Kumar","Action,Crime,Mystery",0,https://www.imdb.com/title/tt7060344/
+Film,La battaglia di Algeri,1966,"Gillo Pontecorvo","Drama,War",0,https://www.imdb.com/title/tt0058946/
+Film,Kimetsu no Yaiba: Mugen Ressha-Hen,2020,"Haruo Sotozaki","Animation,Action,Adventure",0,https://www.imdb.com/title/tt11032374/
+Film,Before Sunset,2004,"Richard Linklater","Drama,Romance",0,https://www.imdb.com/title/tt0381681/
+Film,Du rififi chez les hommes,1955,"Jules Dassin","Crime,Drama,Thriller",0,https://www.imdb.com/title/tt0048021/
+Film,Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni,1997,"Hideaki Anno,Kazuya Tsurumaki","Animation,Action,Drama",0,https://www.imdb.com/title/tt0169858/
+Film,Drishyam 2,2021,"Jeethu Joseph","Crime,Drama,Thriller",0,https://www.imdb.com/title/tt12361178/
+Film,Trois couleurs: Rouge,1994,"Krzysztof Kieslowski","Drama,Mystery,Romance",0,https://www.imdb.com/title/tt0111495/
+Film,The Princess Bride,1987,"Rob Reiner","Adventure,Family,Fantasy",0,https://www.imdb.com/title/tt0093779/
+Film,Fanny och Alexander,1982,"Ingmar Bergman","Drama",0,https://www.imdb.com/title/tt0083922/
+Film,Soul,2020,"Pete Docter,Kemp Powers","Animation,Adventure,Comedy",0,https://www.imdb.com/title/tt2948372/
+Film,Le notti di Cabiria,1957,"Federico Fellini","Drama",0,https://www.imdb.com/title/tt0050783/
+Film,Sunrise: A Song of Two Humans,1927,"F.W. Murnau","Drama,Romance",0,https://www.imdb.com/title/tt0018455/
